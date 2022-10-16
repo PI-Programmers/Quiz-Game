@@ -59,7 +59,7 @@ print()
 i = score * 10
 
 if i <= 20:
-    print("Opps, You Scored",i,"/ 40 | YOU ARE A NOOB")
+    print("Oops, You Scored",i,"/ 40 | YOU ARE A NOOB")
 elif i == 30:
     print("WoW, You Scored ",i,"/ 40 | YOU ARE QUITE SMART")
 else:
