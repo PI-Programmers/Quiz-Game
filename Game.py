@@ -64,3 +64,5 @@ elif i == 30:
     print("WoW, You Scored ",i,"/ 40 | YOU ARE QUITE SMART")
 else:
     print("Congratulations, You Scored ",i,"/ 40 | YOU ARE A GENIUS")
+
+
